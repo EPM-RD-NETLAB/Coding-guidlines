@@ -1,4 +1,5 @@
 # Coding-guidlines
+**Below are our C# coding standards, naming conventions, and best practices.**
 
 ## Useful References
 - [C# Coding Standards and Naming Conventions (ENG)](http://www.dofactory.com/reference/csharp-coding-standards)
